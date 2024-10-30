@@ -4,6 +4,23 @@
 
 Welcome to my Data Analyst Portfolio! I specialize in transforming data into insights using Power BI for dynamic visualizations, SQL for efficient data querying, and Python for in-depth analysis. With skills in machine learning and Excel, I solve real-world problems and support data-driven decisions. Explore my projects and connect with me!
 
+## 📂 Tools dan Project
+
+### 1. Python
+- [Customer Segmentation](Python/Customer_Segmentation/README.md)  
+- [Data Cleaning Automation](Python/Data_Cleaning_Automation/README.md)
+
+### 2. SQL
+- [Sales Data Analysis](SQL/Sales_Data_Analysis/README.md)  
+- [Marketing Campaign Performance](SQL/Marketing_Campaign_Performance/README.md)
+
+### 3. Power BI
+- [Financial Dashboard](PowerBI/Financial_Dashboard/README.md)
+
+### 4. Excel
+- [Budget Planning](Excel/Budget_Planning/README.md)
+
+
 - 📫 How to reach me **febiolajohana01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

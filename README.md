@@ -22,7 +22,7 @@ Welcome to my Data Analyst Portfolio! I specialize in transforming data into ins
 ### 3. Superstore Sales Dashboard
 - Ms. Power BI
 
-### 4. PWC Switzerland : Virtual Project Based Internship
+### 4. PWC Switzerland - Power BI : Virtual Project Based Internship
 - Ms. Power BI
 
 📫 How to reach me **febiolajohana01@gmail.com**

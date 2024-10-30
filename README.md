@@ -7,18 +7,16 @@ Welcome to my Data Analyst Portfolio! I specialize in transforming data into ins
 ## 📂 Tools dan Project
 
 ### 1. Python
-- [Customer Segmentation](Python/Customer_Segmentation/README.md)  
-- [Data Cleaning Automation](Python/Data_Cleaning_Automation/README.md)
+- [Prediction Model]
 
 ### 2. SQL
-- [Sales Data Analysis](SQL/Sales_Data_Analysis/README.md)  
-- [Marketing Campaign Performance](SQL/Marketing_Campaign_Performance/README.md)
+- [Query Maker]
 
 ### 3. Power BI
-- [Financial Dashboard](PowerBI/Financial_Dashboard/README.md)
+- [Visualization and Dashboard]
 
 ### 4. Excel
-- [Budget Planning](Excel/Budget_Planning/README.md)
+- [Data Analysis]
 
 
 - 📫 How to reach me **febiolajohana01@gmail.com**

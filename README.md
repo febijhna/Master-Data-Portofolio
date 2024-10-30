@@ -6,18 +6,24 @@ Welcome to my Data Analyst Portfolio! I specialize in transforming data into ins
 
 ## 📂 Tools dan Project
 
-### 1. Python
-- [Prediction Model]
+### 1. Prediction Model for Wine Quality
+- python
+- KNN Classifier
+- Desicion Tree Classifier
+- Linear Regression
 
-### 2. SQL
-- [Query Maker]
+### 2. Kalbe Nutritionals Data Scientist : Project Based Internship
+- SQL (PostgreSQL, Dbeaver, VScode)
+- Python
+- PowerBI
+- Arima
+- Clustering
 
-### 3. Power BI
-- [Visualization and Dashboard]
+### 3. Superstore Sales Dashboard
+- Ms. Power BI
 
-### 4. Excel
-- [Data Analysis]
-
+### 4. PWC Switzerland : Virtual Project Based Internship
+- Ms. Power BI
 
 - 📫 How to reach me **febiolajohana01@gmail.com**
 

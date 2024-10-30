@@ -6,7 +6,7 @@ Welcome to my Data Analyst Portfolio! I specialize in transforming data into ins
 
 ## 📂 Tools dan Project
 
-### 1. Frome Grapes to Grades : Prediction Model for Wine Quality
+### 1. From Grapes to Grades : Prediction Model for Wine Quality
 - python
 - KNN Classifier
 - Desicion Tree Classifier

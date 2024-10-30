@@ -6,7 +6,7 @@ Welcome to my Data Analyst Portfolio! I specialize in transforming data into ins
 
 ## 📂 Tools dan Project
 
-### 1. Prediction Model for Wine Quality
+### 1. Frome Grapes to Grades : Prediction Model for Wine Quality
 - python
 - KNN Classifier
 - Desicion Tree Classifier
@@ -25,7 +25,7 @@ Welcome to my Data Analyst Portfolio! I specialize in transforming data into ins
 ### 4. PWC Switzerland : Virtual Project Based Internship
 - Ms. Power BI
 
-- 📫 How to reach me **febiolajohana01@gmail.com**
+📫 How to reach me **febiolajohana01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

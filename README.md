@@ -28,7 +28,6 @@ Welcome to my Data Analyst Portfolio! I specialize in transforming data into ins
 ### 5. Commonwealth Bank - Data Scientist : Virtual Project Based Internship
 - Excel
 - Python
-- API
 
 📫 How to reach me **febiolajohana01@gmail.com**
 
